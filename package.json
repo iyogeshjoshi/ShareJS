@@ -18,8 +18,8 @@
   "dependencies": {
     "livedb": ">=0.2.3",
     "ottypes": "~0.6",
-    "semver": "~2",
-    "express": "~3",
+    "semver": "~7",
+    "express": "~4",
     "hat": "*",
     "async": "~0.2"
   },
@@ -35,14 +35,14 @@
     "sinon": "1.7.1",
     "redis": "~0.8.6",
     "uglify-js": "~2",
-    "karma": "~0.10.2",
+    "karma": "~6.4.4",
     "karma-chrome-launcher": "~0.1.0",
     "karma-firefox-launcher": "~0.1.0",
     "karma-coffee-preprocessor": "~0.1.0",
     "karma-browserify": "0.0.5",
     "karma-mocha": "~0.1.0",
-    "grunt": "~0.4.1",
-    "grunt-karma": "~0.6.2",
+    "grunt": "~1.6.1",
+    "grunt-karma": "~4.0.2",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-simple-mocha": "~0.4.0"
   },
